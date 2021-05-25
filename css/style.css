@@ -270,6 +270,7 @@ img {
 @media screen and (min-width: 700px) {
     .hero {
         background-image: url(../images/desktop/image-hero.jpg);
+        min-height: 80vh:
     }
 
     .hero nav ul {
